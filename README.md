@@ -1,2 +1,2 @@
 # Ansible
- Configurations Ansible
+ Configurations Ansible.cfg
